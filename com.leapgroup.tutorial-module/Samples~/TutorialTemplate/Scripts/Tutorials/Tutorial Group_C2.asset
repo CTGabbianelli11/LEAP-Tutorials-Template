@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bc3976c7bc42e64fb9ef3111e4406f5, type: 3}
+  m_Name: Tutorial Group_C2
+  m_EditorClassIdentifier: LEAPGroup.Tutorials::TutorialGroup
+  groupURL: 1347065751
+  TutorialChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  tutorialIndex: 4
+  lessonName: Example Lesson
+  overview: Basic Tutorial
+  lastTutorial: {fileID: 0}
+  currentTutorial: {fileID: 0}
+  tutorialObjects:
+  - {fileID: 11400000, guid: 4921440cd3b5045b1bf0f0862a1100be, type: 2}
+  - {fileID: 11400000, guid: b1b64df706e524007b94be1ed96f46b7, type: 2}
+  - {fileID: 11400000, guid: f84dd45e339a3477a9d572ce4f080569, type: 2}
+  - {fileID: 11400000, guid: 4edcfb988f86145c6bfc057569af1f35, type: 2}
+  - {fileID: 11400000, guid: 52ed73346920e496a86c1e23cafb8e9e, type: 2}
+  - {fileID: 11400000, guid: d26da228c9592495594839a7ebfefa11, type: 2}
+  - {fileID: 11400000, guid: 377a189482436430eb67f7772393787e, type: 2}
+  - {fileID: 11400000, guid: eac63d3330f9a45708c1cd18c2d6957c, type: 2}
+  - {fileID: 11400000, guid: 2bd7b6b42fdce4a0c8c9066ef407fc40, type: 2}
+  - {fileID: 11400000, guid: 0a42f980d8e374a27bcf2b40d1ffa493, type: 2}

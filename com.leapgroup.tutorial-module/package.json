@@ -1,0 +1,19 @@
+{
+  "name": "com.leapgroup.tutorial-module",
+  "displayName": "LEAP Tutorial Module",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "ScriptableObject-driven tutorial/lesson viewer with a Google Sheets content importer, editor authoring tools, and the LEAP ServiceLocator foundation.",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.textmeshpro": "3.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "Tutorial Template",
+      "description": "A ready-to-open tutorial scene with example lesson content. Import for an editable copy in your project.",
+      "path": "Samples~/TutorialTemplate"
+    }
+  ]
+}

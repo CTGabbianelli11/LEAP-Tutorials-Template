@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69f37ba462aac5341868b97de9211445, type: 3}
+  m_Name: C001-003
+  m_EditorClassIdentifier: LEAPGroup.Tutorials::TutorialObject
+  TutorialEnteredEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  TutorialExitedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  CanGoBack: 1
+  completed: 0
+  title: Chapter 1 Title 3
+  description: "Chapter 1 Description 3\r"
+  index: 0
